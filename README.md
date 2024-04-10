@@ -1,2 +1,3 @@
-# button-modal
-Exemplo de modal com React.js
+# button-modal-example
+
+Estou disponibilizando aqui o exemplo de construção de um modal simples utilizando `React.useState`
